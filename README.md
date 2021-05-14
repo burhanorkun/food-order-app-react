@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+
+# Food Order Application sample writen with Reactjs
+
+### `Main Screen`
+![plot](showcase1.png)
+
+### `Shopping Center Modal screen`
+![plot](showcase2.png)
+
+# 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
